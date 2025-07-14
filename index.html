@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flappy Bird:Cyberpunk</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
+
+
+</head>
+
+
+
+<body>
+    <canvas id="canvas1" tabindex="0"></canvas>
+    
+
+    <div class = "controls">
+        <button id="restartButton"    title="Restart the game" >&#x21BA;</button>
+        <button id="fullScreenButton" title="Go fullscreen">F</button>
+        <button id="debugButton"      title="Toggle debug mode">D</button>
+        <button id="PauseButton"      title="Pause">&#x23F8;</button>
+    </div>
+
+    <div class = "assets">
+        <img id="background"  src="assets/images/background_single.png">
+        <img id="player_fish" src = "assets/images/player_fish.png">
+        <img id="smallGears" src = "assets/images/smallGears.png">
+        <audio id = "charge" src="assets/sounds/charge.mp3"></audio>
+        <audio id = "flap1" src="assets/sounds/flap1.mp3"></audio>
+        <audio id = "flap2" src="assets/sounds/flap2.mp3"></audio>
+        <audio id = "flap3" src="assets/sounds/flap3.mp3"></audio>
+        <audio id = "flap4" src="assets/sounds/flap4.mp3"></audio>
+        <audio id = "flap5" src="assets/sounds/flap5.mp3"></audio>
+
+        <audio id = "win" src="assets/sounds/win.mp3"></audio>
+        <audio id="lose"  src="assets/sounds/lose.mp3"></audio>
+        
+    </div>
+
+    <script src="assets/scripts/controls.js"></script>
+    <script src="assets/scripts/audio.js"></script>
+    <script src="assets/scripts/obstacle.js"></script>
+    <script src="assets/scripts/background.js"></script>
+    <script src="assets/scripts/player.js"></script>
+    <script src="assets/scripts/main.js"></script>
+   
+</body>
+
+
+
+
+
+</html>

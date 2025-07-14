@@ -1,0 +1,72 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+    font-family: 'Bungee' , sans-serif;
+}
+
+
+
+#canvas1{
+    /* border: 5px solid black; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background: blue; */
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.assets{
+    display: none;
+}
+
+/* Controls container */
+.controls {
+    position: absolute;
+    bottom: 10px; /* Position from the bottom of the canvas */
+    left: 50%;
+    transform: translateX(-50%); /* Center horizontally */
+    z-index: 10;
+    display: flex; /* Use flexbox for horizontal alignment */
+    justify-content: center; /* Center buttons horizontally */
+    gap: 20px; /* Space between buttons */
+    background-color: rgba(0, 0, 0, 0.5); /* Translucent black background */
+    padding: 10px;
+    border-radius: 10px; /* Optional: rounded corners */
+}
+
+/* Individual button styles */
+#restartButton, #debugButton, #fullScreenButton, #PauseButton {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.8); /* Translucent button background */
+    border: none;
+    border-radius: 5px;
+    color: white; /* Text color */
+}
+
+#restartButton {
+    background-color: rgba(255, 99, 71, 0.8); /* Tomato for restart */
+}
+
+#debugButton {
+    background-color: rgba(0, 191, 255, 0.8); /* DeepSkyBlue for debug */
+}
+
+#fullScreenButton {
+    background-color: rgba(34, 139, 34, 0.8); /* ForestGreen for full-screen */
+}
+
+#PauseButton {
+    /* font-size: 25px;
+    padding: 15px; */
+    background-color: rgba(255, 165, 0, 0.8); /* Orange for pause */
+}
+
+/* Optional: Hover effect for buttons */
+#restartButton:hover, #debugButton:hover, #fullScreenButton:hover, #PauseButton:hover {
+    opacity: 0.9;
+}
