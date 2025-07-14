@@ -26,15 +26,19 @@ A modern take on the classic Flappy Bird game with a cyberpunk theme. Navigate t
 
 ## Screenshots
 
+    #### Game Play
 ![Game Play](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-25-26.png?raw=true)
 
+    #### Game Interface(Paused)
 ![Game Interface](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-25-34.png?raw=true)
 
-![Game Action](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-00.png?raw=true)
+    #### Debug Mode
+![Debug Mode](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-00.png?raw=true)
 
-![Game Obstacles](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-17.png?raw=true)
+    #### Game Over
+![Game Over](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-17.png?raw=true)
 
-![Game Controls](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-19.png?raw=true)
+
 
 
 - Sound effects for flapping and boosting
