@@ -1,8 +1,6 @@
 # Flappy Bird: Cyberpunk Edition
 
-A modern take on the classic Flappy Bird game with a cyberpunk theme. Navigate through a futuristic cityscape while collecting energy and avoiding obstacles.
-
-![Game Screenshot](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/assets/images/background_single.png)
+A modern take on the classic Flappy Bird game with a cyberpunk theme. Navigate through a futuristic cityscape while collecting booster energy and avoiding obstacles.
 
 ## Controls
 
@@ -28,15 +26,18 @@ A modern take on the classic Flappy Bird game with a cyberpunk theme. Navigate t
 
 ## Screenshots
 
-![Game Play](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-25-26.png)
+![Game Play](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-25-26.png?raw=true)
 
-![Game Interface](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-25-34.png)
+![Game Interface](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-25-34.png?raw=true)
 
-![Game Action](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-00.png)
+![Game Action](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-00.png?raw=true)
 
-![Game Obstacles](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-17.png)
+![Game Obstacles](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-17.png?raw=true)
 
-![Game Controls](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-19.png)
+![Game Controls](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-19.png?raw=true)
+
+![Game Pause](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-26.png?raw=true)
+
 - Sound effects for flapping and boosting
 - Debug mode for collision visualization
 - Fullscreen support
