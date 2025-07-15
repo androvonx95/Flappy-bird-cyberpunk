@@ -39,7 +39,10 @@ A modern take on the classic Flappy Bird game with a cyberpunk theme. Navigate t
 ![Game Over](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/Screenshot%20From%202025-07-14%2022-26-17.png?raw=true)
 
    #### Game Play Video
-[Game Play Video](https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/gamePlay.mp4) 
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/androvonx95/Flappy-bird-cyberpunk/master/game_screenshots/gamePlay.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
   
 
